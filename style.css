@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&dirsplay=swap');
 body{
     margin: 0;
     padding: 0;
@@ -43,6 +43,9 @@ body{
    }
    .brHello{
     display: none;
+   }
+   .alert{
+    display: block !important;
    }
 }
 #HOME h1{
